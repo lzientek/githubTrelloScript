@@ -88,7 +88,7 @@ ${hasBackend && hasFrontend ? `- [ ] Reducer, actions and services tests.` :''}
     co(function* () {
         let version = null;
         const splittedUrl = window.location.href.split('/');
-        console.log('yes');
+
         if(splittedUrl.length >= 5) {
             version = splittedUrl[4] === 'mistertemp' ? 'v2' : splittedUrl[4] === 'mistertemp-v1' ? 'v1' : null;
         }
@@ -108,9 +108,9 @@ ${hasBackend && hasFrontend ? `- [ ] Reducer, actions and services tests.` :''}
             generateAndSetNewTitle(currentId, prType, currentCard.name);
             generateAndSetGlobalText(currentCard, prType);
             $('.btn-link.muted-link.js-issue-assign-self').click(); // auto assign
-            console.log(currentCard);
+
         } else if(splittedUrl.length === 7 && splittedUrl[6] === 'pull') { // PR mode
             // pull request mode
         }
-    }).then(() => console.log('youpi')).catch(console.log);
+    }).then(() => console.log('success')).catch(console.log);
 })();
