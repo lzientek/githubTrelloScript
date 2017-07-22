@@ -2,8 +2,8 @@
 // @name         PR Github Trello
 // @namespace    https://mistertemp.com/
 // @version      0.3
-// @updateUrl    https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js?token=AC4p0Hm0FWwG_KsY2PaQ5g5E2qCY20hsks5ZfIKswA%3D%3D
-// @downloadUrl  https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js?token=AC4p0Hm0FWwG_KsY2PaQ5g5E2qCY20hsks5ZfIKswA%3D%3D
+// @updateUrl    https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js
+// @downloadUrl  https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js
 // @description  try to take over the world!
 // @author       lzientek
 // @match        https://github.com/*
