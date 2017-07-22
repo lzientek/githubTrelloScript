@@ -29,7 +29,7 @@ const asyncTrello = function* (verb, url, body) {
 const asyncAuthorize = function* () {
     yield new Promise((resolve, reject) => Trello.authorize({
         type: 'popup',
-        name: 'Getting Started Application',
+        name: 'Mistertemp link',
         scope: {
             read: 'true',
             write: 'true' },
