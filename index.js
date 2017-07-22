@@ -2,8 +2,8 @@
 // @name         PR Github Trello
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @updateUrl    https://gist.github.com/lzientek/698a66f28878dddcfcb8324a9cbd3f11/raw/cc816eeda07b2ff522727e677a955e3b6fce3696/github-trello-mistertemp.js
-// @downloadUrl  https://gist.github.com/lzientek/698a66f28878dddcfcb8324a9cbd3f11/raw/cc816eeda07b2ff522727e677a955e3b6fce3696/github-trello-mistertemp.js
+// @updateUrl    https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js?token=AC4p0Hm0FWwG_KsY2PaQ5g5E2qCY20hsks5ZfIKswA%3D%3D
+// @downloadUrl  https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js?token=AC4p0Hm0FWwG_KsY2PaQ5g5E2qCY20hsks5ZfIKswA%3D%3D
 // @description  try to take over the world!
 // @author       lzientek
 // @match        https://github.com/*
