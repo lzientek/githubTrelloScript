@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         PR Github Trello
 // @namespace    https://mistertemp.com/
-// @version      0.4
-// @updateUrl    https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js
-// @downloadUrl  https://raw.githubusercontent.com/lzientek/githubTrelloScript/master/index.js
+// @version      0.5
+// @updateUrl    https://raw.githubusercontent.com/mistertemp/browser-scripts/master/githubTrelloScript.js
+// @downloadUrl  https://raw.githubusercontent.com/mistertemp/browser-scripts/master/githubTrelloScript.js
 // @description  try to take over the world!
 // @author       lzientek
 // @match        https://github.com/*
